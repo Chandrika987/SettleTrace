@@ -65,7 +65,7 @@ export function Overview() {
               Ask the settlement book a question
             </h2>
             <p className="mt-1.5 text-[13px] leading-5 text-ink-300">
-              Type a question in plain language. RazorRecon converts it into filters, applies them to
+              Type a question in plain language. SettleTrace converts it into filters, applies them to
               the ledger and shows the evidence behind every match.
             </p>
             <ul className="mt-4 space-y-2">

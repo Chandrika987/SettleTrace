@@ -10,7 +10,7 @@ const SOURCE_LABEL: Record<FinancialEvent['source'], string> = {
   processor: 'Processor',
   bank: 'Bank',
   ledger: 'Ledger',
-  system: 'RazorRecon'
+  system: 'SettleTrace'
 };
 
 const TONE_MARK: Record<NonNullable<FinancialEvent['tone']>, string> = {

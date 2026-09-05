@@ -62,11 +62,11 @@ export function Sidebar({ onNavigate }: {onNavigate?: () => void;}) {
     <div className="rr-scroll-dark flex h-full w-full flex-col overflow-y-auto bg-canvas text-ink-300 border-r border-line shadow-panel">
       <div className="flex items-center gap-2.5 px-4 py-4">
         <div className="flex h-7 w-7 items-center justify-center rounded border border-cyan-400/40 bg-cyan-400/10">
-          <span className="font-mono text-xs font-bold leading-none text-cyan-400">R</span>
+          <span className="font-mono text-xs font-bold leading-none text-cyan-400">S</span>
         </div>
         <div className="leading-tight">
           <div className="text-[13px] font-bold tracking-tight text-white flex items-center gap-1.5">
-            RazorRecon
+            SettleTrace
             <span className="rounded bg-cyan-400/10 border border-cyan-400/30 px-1 py-0.2 font-mono text-[9px] text-cyan-400 uppercase font-semibold">Buildathon</span>
           </div>
           <div className="font-mono text-2xs uppercase tracking-label text-ink-400">

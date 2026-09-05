@@ -307,7 +307,7 @@ function NotificationsSection() {
       <PanelHeader
         eyebrow="Notifications"
         title="What reaches you, and where"
-        subtitle="Financial alerts only. RazorRecon never notifies on routine successful matches." />
+        subtitle="Financial alerts only. SettleTrace never notifies on routine successful matches." />
       
       <div>
         {prefs.map((p) =>
