@@ -579,11 +579,7 @@ Shrinking the distance between *finding* a financial mismatch and *understanding
 
 ---
 
-## License
 
-No license has currently been specified for this repository.
-
----
 
 <div align="center">
 
