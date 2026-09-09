@@ -577,7 +577,6 @@ Unknown → Detected → Explained → Reviewed → Resolved → Audited
 
 Shrinking the distance between *finding* a financial mismatch and *understanding and resolving* it.
 
----
 
 
 
